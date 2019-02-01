@@ -1,0 +1,2 @@
+class TagPerGossip < ApplicationRecord
+end

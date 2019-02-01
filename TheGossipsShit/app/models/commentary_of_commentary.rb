@@ -1,0 +1,2 @@
+class CommentaryOfCommentary < ApplicationRecord
+end
